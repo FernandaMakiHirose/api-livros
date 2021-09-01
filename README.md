@@ -6,4 +6,10 @@ Iniciei o desenvolvimento de um e-commerce de livros, estruturando o projeto bac
 - Pacotes usados: EntityFramework, Microsoft.EntityFrameworkCore, System.Linq, Microsoft.EntityFrameworkCore.InMemory (cria um banco de dados em memória no arquivo `Startup.cs`)
 
 ## Guia
-- No arquivo `launchSettings.json` no `"launchUrl"` foi definido o nome da rota do projeto
+- No arquivo `launchSettings.json` no `"launchUrl"` definide o nome da rota do projeto
+
+Build:
+>dotnet build
+
+Executar o projeto:
+>dotnet run
